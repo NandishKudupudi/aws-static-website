@@ -1,4 +1,4 @@
-# aws-static-website
+
 # AWS Static Website Hosting Project
 
 ## 📌 Project Overview
@@ -18,4 +18,4 @@ This project demonstrates hosting a static website using Amazon S3.
 (https://aws-website90.s3.ap-south-1.amazonaws.com/index.html)
 
 ## 📷 Screenshots
-()
+(https://github.com/NandishKudupudi/aws-static-website/blob/main/website%20output.png)
